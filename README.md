@@ -14,7 +14,7 @@ A collection of machine learning projects — including classification, NLP, rec
 ## Why this repo exists
 
 - To practice and showcase a variety of classical and practical ML tasks.  
-- To maintain a structured, educational portfolio — useful for learning, sharing, and showcasing to others (e.g. in a résumé or interview).  
+- To maintain a structured, educational portfolio — useful for learning, sharing, and showcasing to others.
 - To experiment with different ML techniques and compare results across tasks.
 
 ## 🚀 Getting Started
