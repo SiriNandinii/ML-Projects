@@ -1,6 +1,6 @@
 # ML-Projects
 
-A collection of machine learning projects — including classification, NLP, recommendation systems, and more — developed with Python & Jupyter Notebooks.
+A collection of machine learning mini-projects — including classification, NLP, recommendation systems, and more — developed with Python & Jupyter Notebooks.
 
 ## 📚 Projects included
 
